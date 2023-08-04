@@ -6,6 +6,7 @@ This repo will evolve according to my way of coding.
 ## What I learn ?
 - How modules work in JS.
 - Understanding and technical terms around classes
+- How start a Vite Project
 - How structure a Three.js project
 
 If you are interested in Three.js I can only recommend the [three.js journey](https://threejs-journey.com/) training by Bruno Simon.
