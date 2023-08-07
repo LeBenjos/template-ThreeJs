@@ -1,4 +1,4 @@
-import Experience from "../Experience/Experience";
+import Experience from "../Experience/Experience"
 
 // Start the ThreeJs Experience
-const experience = new Experience(document.querySelector(".webgl"))
+const experience = new Experience(document.querySelector("#webgl"))
